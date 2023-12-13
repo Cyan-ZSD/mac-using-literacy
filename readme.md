@@ -1,0 +1,1 @@
+This is the collection of experience I learned for using my Mac more efficiently. 
